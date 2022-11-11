@@ -20,7 +20,7 @@ export function Navbar() {
       mb={4}
     >
       <HStack py={4} justifyContent='flex-end' maxW='container.lg' mx='auto'>
-        <Navlink to='/' name='Firbase Authentication' size='lg' />
+        <Navlink to='/' name='Firebase Authentication' size='lg' />
         <Spacer />
         <Navlink to='/login' name='Login' />
         <Navlink to='/register' name='Register' />
